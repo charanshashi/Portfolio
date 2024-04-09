@@ -7,6 +7,13 @@ const Projects =[
         link : 'https://cricketplayers.onrender.com/',
         gitlink : 'https://cricketplayers.onrender.com/'
     },
+    {
+        title : "Cricket Predicition",
+        techs : "Streamlit / AI / ML",
+        img : cricketpred,
+        link : 'https://cricketplayers.onrender.com/',
+        gitlink : 'https://cricketplayers.onrender.com/'
+    },
 ]
 
 export default Projects;
