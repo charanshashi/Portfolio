@@ -1,0 +1,16 @@
+.main {
+    background-image: url("https://img.freepik.com/premium-vector/geometric-dark-message-board-wallpaper-with-copy-space-modern-designs_796268-137.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .body {
+    min-height: 100vh;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(8px + 2vmin);
+    color: white;
+  }
+  
